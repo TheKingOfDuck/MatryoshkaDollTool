@@ -1,5 +1,10 @@
 # MatryoshkaDollTool
 
+
+### Note
+
+这是很久以前练手的一个辣鸡项目而已,实现方式很蠢,替换资源,调命令行去编译SecurityUpdate这个项目。故需要使用可以自己手动去编译这个项目即可！！！没兴趣修bug了。
+
 ### WHAT
 
 一款程序捆绑工具，取名MatryoshkaDollTool，也叫俄罗斯套娃工具。
